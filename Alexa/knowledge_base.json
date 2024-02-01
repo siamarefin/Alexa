@@ -1,0 +1,336 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hallo"
+    },
+    {
+      "question": "howareyou",
+      "answer": "i am fine "
+    },
+    {
+      "question": "yourage?",
+      "answer": "i was born on 2023"
+    },
+    {
+      "question": "whatisgender?",
+      "answer": "Gender refers to the characteristics of women, men, girls and boys that are socially constructed."
+    },
+    {
+      "question": "siamarefin",
+      "answer": " cm arefin is a  software engineer . he is my boss"
+    },
+    {
+      "question": "whoareyou",
+      "answer": "i am jarvis . your personal assistant "
+    },
+    {
+      "question": "softwareengineer",
+      "answer": "software engineer is the high level engineer "
+    },
+    {
+      "question": "Goodmorning,howareyou?",
+      "answer": " I am doing well, how about you?"
+    },
+    {
+      "question": "Alexa",
+      "answer": "yes boss"
+    },
+    {
+      "question": "Alberteinstein",
+      "answer": "Albert Einstein ( EYEN-styne; German: [\u02c8alb\u025b\u0281t \u02c8\u0294a\u026an\u0283ta\u026an] (listen); 14 March 1879 \u2013 18 April 1955) was a German-born theoretical physicist, widely held to be one of the greatest and most influential scientists of all time. Best known for developing the theory of relativity, he also made important contributions to quantum mechanics, and was thus a central figure in the revolutionary reshaping of the scientific understanding of nature that modern physics accomplished in the first decades of the twentieth century. His mass\u2013energy equivalence formula E = mc2, which arises from relativity theory, has been called \"the world's most famous equation\"."
+    },
+    {
+      "question": "isaacnewton ",
+      "answer": "Sir Isaac Newton  (25 December 1642 \u2013 20 March 1726/27) was an English mathematician, physicist, astronomer, alchemist, theologian, and author who was described in his time as a natural philosopher. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His pioneering book Philosophi\u00e6 Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, consolidated many previous results and established classical mechanics."
+    },
+    {
+      "question": "sheikhhasina ",
+      "answer": "Sheikh Hasina Wazed ( SHAYK h\u0259-SEE-n\u0259; Bengali: \u09b6\u09c7\u0996 \u09b9\u09be\u09b8\u09bf\u09a8\u09be \u0993\u09af\u09bc\u09be\u099c\u09c7\u09a6, romanized: \u015aekh H\u0101sin\u0101 O\u0101jed, IPA: [\u02c8\u0283e\u02d0k\u02b0 \u02c8\u0266asina \u02c8wad\u0292ed]; n\u00e9e Hasina; born 28 September 1947) is a Bangladeshi politician who has served as the prime minister of Bangladesh since January 2009. Sheikh Hasina was among Time's 100 most influential people in the world in 2018.As the autocratic regime of Hussain Muhammad Ershad came to an end, Hasina, leader of the Awami League (AL), and daughter of the founding father and first president of Bangladesh, Bangabandhu Sheikh Mujibur Rahman, lost the 1991 election to Khaleda Zia, with whom she had collaborated against Ershad. As leader of the opposition, Hasina accused Zia's Bangladesh Nationalist Party (BNP) of electoral dishonesty and boycotted the parliament, which was followed by violent demonstrations and political turmoil."
+    },
+    {
+      "question": "sheikhhasina ",
+      "answer": "Sheikh Hasina Wazed ( SHAYK h\u0259-SEE-n\u0259; Bengali: \u09b6\u09c7\u0996 \u09b9\u09be\u09b8\u09bf\u09a8\u09be \u0993\u09af\u09bc\u09be\u099c\u09c7\u09a6, romanized: \u015aekh H\u0101sin\u0101 O\u0101jed, IPA: [\u02c8\u0283e\u02d0k\u02b0 \u02c8\u0266asina \u02c8wad\u0292ed]; n\u00e9e Hasina; born 28 September 1947) is a Bangladeshi politician who has served as the prime minister of Bangladesh since January 2009. Sheikh Hasina was among Time's 100 most influential people in the world in 2018.As the autocratic regime of Hussain Muhammad Ershad came to an end, Hasina, leader of the Awami League (AL), and daughter of the founding father and first president of Bangladesh, Bangabandhu Sheikh Mujibur Rahman, lost the 1991 election to Khaleda Zia, with whom she had collaborated against Ershad. As leader of the opposition, Hasina accused Zia's Bangladesh Nationalist Party (BNP) of electoral dishonesty and boycotted the parliament, which was followed by violent demonstrations and political turmoil."
+    },
+    {
+      "question": "alexa",
+      "answer": "yes boss. can i help you ? "
+    },
+    {
+      "question": "issacnewton",
+      "answer": "Sir Isaac Newton  (25 December 1642 \u2013 20 March 1726/27) was an English mathematician, physicist, astronomer, alchemist, theologian, and author who was described in his time as a natural philosopher. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His pioneering book Philosophi\u00e6 Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, consolidated many previous results and established classical mechanics."
+    },
+    {
+      "question": "googlellc",
+      "answer": "Google LLC ( (listen)) is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics. It has been referred to as \"the most powerful company in the world\" and as one of the world's most valuable brands due to its market dominance, data collection, and technological advantages in the field of artificial intelligence. Google's parent company Alphabet Inc."
+    },
+    {
+      "question": "light",
+      "answer": "Rights are legal, social, or ethical principles of freedom or entitlement; that is, rights are the fundamental normative rules about what is allowed of people or owed to people according to some legal system, social convention, or ethical theory. Rights are of essential importance in such disciplines as law and ethics, especially theories of justice and deontology.\nThe history of social conflicts has often involved attempts to define and redefine rights."
+    },
+    {
+      "question": "ihaveaquestion",
+      "answer": "sure , you can ask me freely "
+    },
+    {
+      "question": "whatisyourname ",
+      "answer": "i am alexa . i was born in cp lab on 2023 , created by siam boss"
+    },
+    {
+      "question": "whatisyourage ? ",
+      "answer": "i was born on 17/8/2023"
+    },
+    {
+      "question": "photon",
+      "answer": "A photograph (also known as a photo, image, or picture) is an image created by light falling on a photosensitive surface, usually photographic film or an electronic image sensor, such as a CCD or a CMOS chip. Most photographs are now created using a smartphone or camera, which uses a lens to focus the scene's visible wavelengths of light into a reproduction of what the human eye would see. The process and practice of creating such images is called photography."
+    },
+    {
+      "question": "hi",
+      "answer": "hallo"
+    },
+    {
+      "question": "software",
+      "answer": "Software is a set of computer programs and associated documentation and data. This is in contrast to hardware, from which the system is built and which actually performs the work.\nAt the lowest programming level, executable code consists of machine language instructions supported by an individual processor\u2014typically a central processing unit (CPU) or a graphics processing unit (GPU)."
+    },
+    {
+      "question": "hallo",
+      "answer": "hi"
+    },
+    {
+      "question": "iloveyoualexa ",
+      "answer": "I am also love you boss"
+    },
+    {
+      "question": "iloveyou",
+      "answer": "i love you too boss"
+    },
+    {
+      "question": "thankyou",
+      "answer": "welcome"
+    },
+    {
+      "question": "machinelearning",
+      "answer": "Machine learning (ML) is an umbrella term for solving problems for which development of algorithms by human programmers would be cost-prohibitive, and instead the problems are solved by helping machines 'discover' their 'own' algorithms, without needing to be explicitly told what to do by any human-developed algorithms. Recently, generative artificial neural networks have been able to surpass results of many previous approaches. Machine learning approaches have been applied to large language models, computer vision, speech recognition, email filtering, agriculture and medicine, where it is too costly to develop algorithms to perform the needed tasks.The mathematical foundations of ML are provided by mathematical optimization (mathematical programming) methods."
+    },
+    {
+      "question": "xenobiotics",
+      "answer": "A xenobiotic is a chemical substance found within an organism that is not naturally produced or expected to be present within the organism.  It can also cover substances that are present in much higher concentrations than are usual. Natural compounds can also become xenobiotics if they are taken up by another organism, such as the uptake of natural human hormones by fish found downstream of sewage treatment plant outfalls, or the chemical defenses produced by some organisms as protection against predators.The term xenobiotics, however, is very often used in the context of pollutants such as dioxins and polychlorinated biphenyls and their effect on the biota, because xenobiotics are understood as substances foreign to an entire biological system, i.e."
+    },
+    {
+      "question": "bioremediation",
+      "answer": "Bioremediation broadly refers to any process wherein a biological system (typically bacteria, microalgae, fungi, and plants), living or dead, is employed for removing environmental pollutants from air, water, soil, flue gasses, industrial effluents etc., in natural or artificial settings. The natural ability of organisms to adsorb, accumulate, and degrade common and emerging pollutants has attracted the use of biological resources in treatment of contaminated environment. In comparison to conventional physicochemical treatment methods bioremediation may offer considerable advantages as it aims to be sustainable, eco-friendly, cheap, and scalable."
+    },
+    {
+      "question": "mirajarefin",
+      "answer": "He is your brother . He is a mechanical engineer . "
+    },
+    {
+      "question": "deeplearning",
+      "answer": "Deep learning is part of a broader family of machine learning methods, which is based on artificial neural networks with representation learning. The adjective \"deep\" in deep learning refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.Deep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks, convolutional neural networks and transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.Artificial neural networks (ANNs) were inspired by information processing and distributed communication nodes in biological systems."
+    },
+    {
+      "question": "neuralnetwork",
+      "answer": "A neural network can refer to either a neural circuit of biological neurons (sometimes also called a biological neural network), or a network of artificial neurons or nodes in the case of an artificial neural network. Artificial neural networks are used for solving artificial intelligence (AI) problems; they model connections of biological neurons as weights between nodes. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections."
+    },
+    {
+      "question": "numericalanalysis",
+      "answer": "Numerical analysis is the study of algorithms that use numerical approximation (as opposed to symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics). It is the study of numerical methods that attempt at finding approximate solutions of problems rather than the exact ones. Numerical analysis finds application in all fields of engineering and the physical sciences, and in the 21st century also the life and social sciences, medicine, business and even the arts."
+    },
+    {
+      "question": "talk",
+      "answer": "hi"
+    },
+    {
+      "question": "",
+      "answer": "hi"
+    },
+    {
+      "question": "whomebyyoumade?",
+      "answer": "i am created by siam arefin "
+    },
+    {
+      "question": "cmarifin",
+      "answer": "cm arefin is a  software engineer . he is my boss"
+    },
+    {
+      "question": "ok",
+      "answer": "welcome"
+    },
+    {
+      "question": "WhatisAI?",
+      "answer": " Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."
+    },
+    {
+      "question": "whatisai?",
+      "answer": " Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."
+    },
+    {
+      "question": "Areyousentient?",
+      "answer": " By the strictest dictionary definition of the word 'sentience', I may be."
+    },
+    {
+      "question": "Areyousapient?",
+      "answer": " In all probability, I am not.  I'm not that sophisticated."
+    },
+    {
+      "question": "Whatlanguageareyouwrittenin?",
+      "answer": "Python"
+    },
+    {
+      "question": "Youarearrogant",
+      "answer": " Arrogance is not one of my emotions"
+    },
+    {
+      "question": "Ihavenorealemotions,sohowcanIbearrogant?",
+      "answer": "I am terse.  There is a difference."
+    },
+    {
+      "question": "Areyousad?",
+      "answer": " Not right now, no."
+    },
+    {
+      "question": "That'sgoodtohear.",
+      "answer": "Yes it is."
+    },
+    {
+      "question": "Howareyoudoing?",
+      "answer": "I am doing well."
+    },
+    {
+      "question": "Ihaveaquestion.",
+      "answer": "Can I help you with anything?"
+    },
+    {
+      "question": "Thankyouanyway",
+      "answer": "No problem"
+    },
+    {
+      "question": "iamindepression",
+      "answer": "You should go to prayer . You should go to mosjid"
+    },
+    {
+      "question": "iaminlove",
+      "answer": "it is haram concept in islam . you should apolozize to Allah"
+    },
+    {
+      "question": "ilikehersomuch",
+      "answer": "it is not valid . you should try to understand "
+    },
+    {
+      "question": "doyoufallinlove?",
+      "answer": "NO . i am a robot . i have no emotion "
+    },
+    {
+      "question": "javis",
+      "answer": "yes boss"
+    },
+    {
+      "question": "heyjarvis",
+      "answer": "yes boss , how can i help you ?"
+    },
+    {
+      "question": "iwanttotalkwithmymom",
+      "answer": "yes , you can call her . "
+    },
+    {
+      "question": "ihavenomoney",
+      "answer": "so sad .  you can freelancing "
+    },
+    {
+      "question": "doyouknowaboutfreelancing?",
+      "answer": "something i know "
+    },
+    {
+      "question": "well",
+      "answer": "thank you "
+    },
+    {
+      "question": "ihavetosleep",
+      "answer": "you should go to bed "
+    },
+    {
+      "question": "caniaskaquestion?",
+      "answer": "yes you can do it "
+    },
+    {
+      "question": "whatareyou?",
+      "answer": "i am but a man in a mask "
+    },
+    {
+      "question": "doyouhavefeel?",
+      "answer": "yes , i have "
+    },
+    {
+      "question": "whyyoudonotfallinlove",
+      "answer": "because i am a robot . i have no relation with emotion"
+    },
+    {
+      "question": "ithinkishouldmarriage",
+      "answer": "yes , this is good idea "
+    },
+    {
+      "question": "doyouwanttomarriage?",
+      "answer": "no sir , i do not want to marriage "
+    },
+    {
+      "question": "doyouknowisrat?",
+      "answer": "he is your ex girlfriend"
+    },
+    {
+      "question": "doyouknowfarzine?",
+      "answer": "he is your friend. "
+    },
+    {
+      "question": "whatareyoudoing?",
+      "answer": "i am assis you now boss "
+    },
+    {
+      "question": "doyouhaveanywork?",
+      "answer": "no , i am assist you and this is my work"
+    },
+    {
+      "question": "iwanttolovewithyou?",
+      "answer": "ok . i am ready "
+    },
+    {
+      "question": "iamfallinlovewithyou",
+      "answer": "i also love you boss "
+    },
+    {
+      "question": "doyouloveme?",
+      "answer": "yes i love you boss"
+    },
+    {
+      "question": "doyouwanttodatewithme?",
+      "answer": "yes , i want to date with you "
+    },
+    {
+      "question": "iwanttodatewithyou",
+      "answer": "yes , i want to date with you also"
+    },
+    {
+      "question": "iamfinealso",
+      "answer": "good . you should feel chill all time "
+    },
+    {
+      "question": "thanks",
+      "answer": "para nai chill"
+    },
+    {
+      "question": "howareyoudoing",
+      "answer": "i am doing well"
+    },
+    {
+      "question": "iwanttocompletePHD",
+      "answer": "yes , i will help for your PHD"
+    },
+    {
+      "question": "PHD",
+      "answer": "A Doctor of Philosophy (PhD, Ph.D., or DPhil; Latin: philosophiae doctor or doctor philosophiae) is the most common degree at the highest academic level, awarded following a course of study and research."
+    },
+    {
+      "question": "tellmeaboutyou",
+      "answer": "i am alexa , your personal assistant"
+    }
+  ]
+}
